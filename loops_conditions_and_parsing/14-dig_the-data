@@ -1,0 +1,5 @@
+#!/bin/bash
+#!/usr/bin/env bash
+# Dig the data
+
+awk {print ,} apache-access.log | sort | uniq -c | sort -r
