@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+#loop and print im alive
 echo 'I am alive!' > /tmp/my_process
 while true
 do

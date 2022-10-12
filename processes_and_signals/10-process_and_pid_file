@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-
+#divin into descriptions
 file="/var/run/myscript.pid"
 
 if [ ! -e "$file" ]; then

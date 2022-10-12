@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-
+#other way to stop a process
 while true
 do
     echo "To infinity and beyond"
